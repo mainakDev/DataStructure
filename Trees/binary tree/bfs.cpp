@@ -1,5 +1,5 @@
 /*
-PROBLEM DESCRIPTION
+BFS traversal of tree
 */
 #include<bits/stdc++.h>
 using namespace std;
